@@ -1,0 +1,5 @@
+Create two endpoints
+
+One to insert a product
+
+The other to insert an order 
